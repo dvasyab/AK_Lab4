@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Documents/C++_Projects/temp/my_project_copy/funct.cpp
+
+/root/Documents/C++_Projects/temp/my_project_copy/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+speaking.cpp
+/root/Documents/C++_Projects/temp/my_project_copy/speaking.cpp
+
+/root/Documents/C++_Projects/temp/my_project_copy/speaking.cpp
+iostream
+-
+funct.cpp
+/root/Documents/C++_Projects/temp/my_project_copy/funct.cpp
+vector
+-
+

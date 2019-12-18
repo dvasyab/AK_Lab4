@@ -1,0 +1,4 @@
+/root/Documents/C++_Projects/temp/my_project_copy/nin/CMakeFiles/rebuild_cache.dir
+/root/Documents/C++_Projects/temp/my_project_copy/nin/CMakeFiles/my_lib.dir
+/root/Documents/C++_Projects/temp/my_project_copy/nin/CMakeFiles/edit_cache.dir
+/root/Documents/C++_Projects/temp/my_project_copy/nin/CMakeFiles/calcul.dir
